@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jowelhossain
 - 👀 I’m interested in learning new thing
-- 🌱 I’m currently learning about Computer Science and Technology
+- 🌱 I’m currently am a Mobile Application Developer(Flutter)
+- 🎓 I complited my gratuation with Computer Science and Engineering
 - 💞️ I’m looking to collaborate on new learner and specialist
 - 📫 How to reach me ...
 
